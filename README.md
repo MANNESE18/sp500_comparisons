@@ -23,10 +23,7 @@ The objective was to identify which S&P 500 sectors operate with the highest "va
 ## Logice Summary
 
 The core metric calculated is:
-```
-Plaintext
-```
-```
+```Plaintext
 Value per Worker = (Market Cap) / (Full-time Employees)
 ```
 
