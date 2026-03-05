@@ -20,7 +20,7 @@ The objective was to identify which S&P 500 sectors operate with the highest "va
 
 * **Formatted Output:** Finally, the results are aggregated into a list and printed in a clean, tabular format in the terminal for immediate comparison across different industries.
 
-## Logice Summary
+## Logic Summary
 
 The core metric calculated is:
 ```Plaintext
