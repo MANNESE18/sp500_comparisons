@@ -36,7 +36,7 @@ with open(fh,'r') as f:
         except ValueError:
             continue
         try:
-            value_vs_workers = int(marketcap/num_employees)
+            value_vs_workers = int(marketcap/ num_employees)
         except ValueError:
             continue
         cur.execute("INSERT INTO stock_study (company,sector,value_vs_workers) VALUES (?,?,?)",(company,sector,value_vs_workers))
